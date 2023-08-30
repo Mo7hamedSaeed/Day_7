@@ -1,0 +1,21 @@
+/* Customize navbar styles */
+
+/* Customize jumbotron styles */
+.jumbotron {
+  background-image: url('https://s3-alpha.figma.com/hub/file/3271720301/85f5595b-9b58-45c2-a189-8354dfc6a3fe-cover.png');
+  background-size:cover;
+  color: #fff;
+  padding: 100px 0;
+  margin-bottom: 10px;
+}
+
+.jumbotron h1 {
+  font-size: 3rem;
+}
+
+.jumbotron p {
+  font-size: 1.5rem;
+}
+
+
+/* ... (additional styles) ... */
